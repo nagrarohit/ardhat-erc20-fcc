@@ -1,7 +1,7 @@
 
- - [Getting Started](#getting-started)
+ 
   - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
+  
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -25,27 +25,7 @@
   - You'll know you've installed yarn right if you can run:
     - `yarn --version` And get an output like `x.x.x`
     - You might need to install it with npm
-
-## Quickstart
-
-```
-git clone https://github.com/PatrickAlphaC/hardhat-erc20-fcc
-cd hardhat-erc20-fcc
-yarn
-```
-
-### Typescript (Optional)
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-erc20-fcc)
-
+ 
 
 # Usage
 
